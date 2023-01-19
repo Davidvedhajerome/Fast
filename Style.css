@@ -1,0 +1,36 @@
+body{
+    text-align: center;
+    background-color: #E4F9F5;
+    margin: 0;
+    font-family: 'Merriweather', serif;
+}
+h1{
+    font-family: 'Merriweather', serif;
+    font-family: 'MonteCarlo', cursive;
+}
+.Vedha:hover{
+    height: 200px;
+    width: 200px;
+    background-color: gold;
+}   
+.DAVID{
+    height: 200px;
+    width: 200px;
+    
+}
+.skill{
+    height: 200px;
+    width: 200px;
+
+}
+.contact-me{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+
+}
+.btn{
+    font-family: monospace;
+
+}
+.bottom-container{
+    font-family: Arial, Helvetica, sans-serif;
+}
